@@ -1,0 +1,36 @@
+body {
+    background: lightgray;
+}
+
+section {
+    background: white;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: gray;
+}
+
+h2 {
+    color: green;
+}
+
+.hotpink-header {
+    color: hotpink;
+}
+
+#top {
+    background: yellow;
+}
+
+a {
+    color: #d38c09;
+}
+
+
+nav a {
+    color: #2baa3c;
+}
